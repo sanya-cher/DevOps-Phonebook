@@ -1,0 +1,12 @@
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный справочник организации.csproj.AssemblyReference.cache
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный_справочник_организации.Properties.Resources.resources
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный справочник организации.csproj.GenerateResource.cache
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный справочник организации.csproj.CoreCompileInputs.cache
+C:\Users\sanya\source\repos\Телефонный справочник организации\bin\Debug\Database1.mdf
+C:\Users\sanya\source\repos\Телефонный справочник организации\bin\Debug\Database1_log.ldf
+C:\Users\sanya\source\repos\Телефонный справочник организации\bin\Debug\Телефонный справочник организации.exe.config
+C:\Users\sanya\source\repos\Телефонный справочник организации\bin\Debug\Телефонный справочник организации.exe
+C:\Users\sanya\source\repos\Телефонный справочник организации\bin\Debug\Телефонный справочник организации.pdb
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный справочник организации.exe
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный справочник организации.pdb
+C:\Users\sanya\source\repos\Телефонный справочник организации\obj\Debug\Телефонный_справочник_организации.Form1.resources
